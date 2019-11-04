@@ -1,0 +1,70 @@
+*{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2 {
+
+	margin-top: 50px;
+	padding-bottom: 10px;
+	width: 75px;
+	border-bottom: 5px solid #40E0D0;
+
+}
+
+.river {
+	float: left;
+	width: 50%;
+	clip-path: polygon(90% 50% , 0% 0, 0% 100%);
+	
+}
+
+.logo {
+	width: 300px;
+	float: right;
+	margin-right: 30px;
+}
+
+div {
+	float: right;
+	margin-top: 150px;
+	margin-right: 50px;
+}
+
+h1.prereg {
+	margin-top: -20px;
+	
+
+}
+
+.matricno {
+	width: 250px;
+	height: 30px;
+	padding-left: 10px;
+	
+}
+
+.password {
+
+	width: 250px;
+	height: 30px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+	
+}
+
+.Remember {
+	margin-bottom: 10px;
+	margin-right: 10px;
+	
+}
+
+.Login {
+	width: 265px;
+	height: 30px;
+	
+}
+
+
+ 
